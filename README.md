@@ -10,4 +10,6 @@ Please contact us if you wish a certain tester to be included, thank you for you
 <code>make war</code> : Downloads libft war machine<br>
 <code>make unit</code> : Downloads libft unit tester<br>
 <code>make tri</code> :  Downloads libft tipoli tester<br>
-<code>make all-test</code> : download all the above testers<br><br> 
+<code>make all-test</code> : download all the above testers<br><br>
+:)<br>
+More coming soon...
