@@ -8,7 +8,7 @@ tri:
 	git clone https://github.com/Tripouille/libftTester.git. ../libftTester
 all-test: war unit tri
 run-war:
-	bash libft-war-machine/grademe.sh
+	bash ../libft-war-machine/grademe.sh
 run-unit:
 	cd libft-unit-test
 	$(MAKE)
